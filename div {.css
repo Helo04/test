@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    color: rgb(75, 0, 250);
+}
+.font p {
+    font-size: 160%;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+.tulisan {
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
